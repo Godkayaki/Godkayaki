@@ -2,6 +2,9 @@
 
 ```
 Hey ~
+
+Currently working as an App developer and Sysadmin.
+Also developing my own aplications mainly using Python and Java.
 ```
 <!--
 **Godkayaki/Godkayaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
