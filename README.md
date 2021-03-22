@@ -3,7 +3,7 @@
 ```
 Hey ~
 
-Currently working as an App developer and Sysadmin.
+Currently working as an App developer in Spain
 Also developing my own aplications mainly using Python and Java.
 ```
 <!--
