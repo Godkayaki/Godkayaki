@@ -6,7 +6,7 @@ class MultiplatformApplicationDev:
 
     def __init__(self):
         self.name = "Daniel Gonzalez"
-        self.role = "Cloud Archidekt"
+        self.role = "Cloud Architect"
         self.language_spoken = ["ca_ES", "es_ES", "en_US"]
         self.webpage = "diargi.com"
 
